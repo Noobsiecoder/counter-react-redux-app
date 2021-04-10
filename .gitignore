@@ -1,0 +1,9 @@
+# tailwind
+tailwind.css
+
+# dependencies
+node_modules
+
+# misc
+.netlify
+build
