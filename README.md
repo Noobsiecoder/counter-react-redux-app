@@ -32,16 +32,19 @@ git clone "https://github.com/Noobsiecoder/counter-react-redux-app.git"
 - To run this project :
 
 ```bash
+# Go inside project directory
+cd counter-react-redux-app
+
 # Check if both npm and node are installed
 npm --version && node --version
 
 # Download required npm packages
 npm i
 
-# Run react app
+# Run react app in development mode
 npm start
 
-# Build react app
+# Build react app for production mode
 npm run build
 ```
 
